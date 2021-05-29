@@ -1,0 +1,6 @@
+framework module Pods_SAKit_Swift {
+  umbrella header "Pods-SAKit_Swift-umbrella.h"
+
+  export *
+  module * { export * }
+}
